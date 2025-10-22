@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-## 📊 Estadístiques del meu GitHub
 
-![Metrics](github-metrics.svg)
+
 
 <!--
 **XaviPerezCanada/XaviPerezCanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
